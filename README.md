@@ -1,17 +1,9 @@
 # Ridiculous at First Glance, Real by the Second
 
-A one-sentence startup pitch for the make.fun competition
-`u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a`.
+A one-sentence startup pitch for a bizarre business that actually sells: tiny funerals for dead houseplants, sold to collectors who feel guilty about killing a prized monstera.
 
-The entry: a crow-delivered marriage proposal service. Trained crows fly
-the ring to the proposal, because a bird landing on her shoulder beats any
-restaurant — and grooms pay $900 for the gasp.
+`main.ts` writes the pitch (170 characters, no trailing newline) to `$MAKEFUN_OUTPUT_DIR/entry.txt`.
 
-`main.ts` writes the chosen sentence to `/output/entry.txt` (or
-`$MAKEFUN_OUTPUT_DIR/entry.txt` when set). It is fully deterministic: the
-sentence is hardcoded after ranking, with no network access and no
-randomness.
-
-[![Bounty](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a.svg)](https://make.fun/competitions/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
-[![Rank](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/vjmunggahari-ui/startup-pitch-ono10/rank.svg)](https://make.fun/competitions/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
-[![Reward](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/vjmunggahari-ui/startup-pitch-ono10/reward.svg)](https://make.fun/competitions/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+[![bounty](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+[![rank](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/vjmunggahari-ui/startup-pitch-ono10/rank.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+[![reward](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/vjmunggahari-ui/startup-pitch-ono10/reward.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
